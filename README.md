@@ -1,1 +1,1 @@
-Algorithm Final Project: Creating a DNA Sequencing Algorithm
+Final Project in Algorithms: Designing a DNA sequencing Algorithm
